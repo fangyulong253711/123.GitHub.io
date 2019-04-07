@@ -1,0 +1,510 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.dhbox2 .dhlefttop {
+    position: relative;
+    height: 30px;
+    width: 320px;
+    border: 1px solid transparent;
+}
+
+.dhbox2 .dhlefdown {
+    position: relative;
+    /* top: 20px; */
+    height: 30px;
+    width: 320px;
+    border: 1px solid transparent;
+}
+
+.daohang .dhtupian {
+    height: 76px;
+    width: 110px;
+    margin-top: 15px;
+    margin-left: 140px;
+    float: left;
+    display: inline-block;
+    text-align: center;
+    line-height: 75px;
+
+}
+
+.daohang .dhbox1 {
+    float: left;
+    margin-left: 50px;
+    border: 2px solid transparent;
+    height: 72.6px;
+    /* width: 468px; */
+    top: 0px;
+    position: relative;
+}
+
+.daohang .zhuche {
+    float: left;
+}
+
+.daohang .dhbox2 {
+    float: left;
+    height: 62.8px;
+    /* width: 320px; */
+    border: 2px solid transparent;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 20px;
+}
+
+.daohang .dhbox1 ul li {
+
+    height: 76px;
+    width: 75px;
+    border: 2px solid transparent;
+    float: left;
+    display: inline-block;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.first {
+    background-color: #00BFFF;
+
+
+}
+
+
+
+.daohang .zhuche {
+    height: 40px;
+    width: 96px;
+    border: 1px solid transparent;
+    margin-left: 500px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    background-color: #00BFFF;
+    border-radius: 20px;
+    color: white;
+}
+
+.daohang {
+    height: 80px;
+    width: 100%;
+    border: 1px solid transparent;
+
+}
+
+.daohang .dhlefttop ul li {
+    float: left;
+    margin-left: 15px;
+}
+
+.qqpc {
+    height: 600px;
+    width: 1496px;
+    border: 0px solid transparent;
+    position: absolute;
+    background-image: url('img/bbbb.png');
+    background-size: cover;
+
+
+}
+
+
+.xiaoyuandian {
+    position: relative;
+    height: 43px;
+    width: 84px;
+    border: 0px solid transparent;
+    width: 100%;
+    margin-top: 480px;
+    background: linear-gradient(to top, #D3D3D3, transparent);
+
+
+}
+
+.qqpc .xiaoyuandian ul li {
+    float: left;
+
+}
+
+.qqpc .xiaoyuandian .xiaoyuandian2 .xiaoyuandian3 {
+    height: 20px;
+    width: 20px;
+    border: 2px solid #D3D3D3;
+    float: left;
+    margin-left: 700px;
+    margin-top: 10px;
+    border-radius: 50%;
+
+}
+
+.qqpc .xiaoyuandian .xiaoyuandian2 .xiaoyuandian3:hover {
+    background-color: #D3D3D3;
+    height: 18px;
+    width: 18px;
+}
+
+.qqpc .xiaoyuandian .xiaoyuandian2 .xiaoyuandian4 {
+    height: 20px;
+    width: 20px;
+    border: 2px solid #D3D3D3;
+    position: relative;
+    float: left;
+    margin-top: 10px;
+    border-radius: 50%;
+
+}
+
+.qqpc .xiaoyuandian .xiaoyuandian2 .xiaoyuandian4:hover {
+    background-color: #D3D3D3;
+    height: 18px;
+    width: 18px;
+}
+
+.qqpcoffirst .yi_1 {
+    position: relative;
+    margin-left: 300px;
+    margin-top: -330px;
+}
+
+.qqpcoffirst .yi_2 {
+    position: relative;
+    margin-left: 470px;
+    margin-top: -430px;
+}
+
+.qqpcoffirst .yi_3 {
+    position: absolute;
+    margin-top: -430px;
+}
+
+.acctive {
+    display: none;
+}
+
+.qqpcofsecond {
+    position: absolute;
+    margin-top: -530px;
+}
+
+.qqpcofsecond .secondfirst {
+    position: relative;
+    margin-left: 570px;
+}
+
+.qqpcofsecond .secondsecond {
+    position: relative;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.qqpcofsecond .secondthird {
+    position: relative;
+    margin-left: 320px;
+    margin-top: 65px;
+}
+
+#qqpc2 {
+    width: 1496px;
+    height: 280px;
+    border: 1px solid transparent;
+    position: absolute;
+    margin-top: 600px;
+    background-color: white;
+}
+
+.qqpc2 img {
+    position: relative;
+    margin-top: 0px;
+    height: 100%;
+    margin-left: 180px;
+}
+
+
+.qqpcsecond {
+    position: absolute;
+    margin-top: 1500px;
+    width: 1496px;
+    height: 580px;
+    border: 10px solid transparent;
+    background-color: white;
+}
+
+.qqpcsecond .qqpcsecondf {
+    position: relative;
+    margin-top: -192px;
+    margin-left: 225px;
+}
+
+.qqpcsecond .qqpcseconds {
+    position: relative;
+    margin-left: 750px;
+    margin-top: -500px;
+    height: 195px;
+    width: 487px;
+}
+
+.qqpcsecond .qqpcsecondt {
+    position: absolute;
+    margin-top: -300px;
+    margin-left: -150px;
+}
+
+.qqpcsecond .qqpcsecondfo {
+    position: absolute;
+    margin-left: -430px;
+    margin-top: -260px;
+}
+
+
+
+.qqpcthird {
+    position: absolute;
+    margin-top: 2700px;
+    width: 1496px;
+    height: 580px;
+    border: 10px solid transparent;
+    background-color: white;
+}
+
+.qqpcthird .qqpcthirdf {
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 150px;
+}
+
+.qqpcthird .qqpcthirds {
+    position: absolute;
+    margin-left: 30px;
+    height: 205px;
+    width: 457px;
+    margin-top: 140px;
+    margin-left: 240px;
+}
+
+.qqpcthird .qqpcthirdt {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 240px;
+}
+
+.qqpcthird .qqpcthirdfo {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 240px;
+}
+
+
+
+.qqpcfour {
+    position: absolute;
+    margin-top: 3900px;
+    width: 1496px;
+    height: 580px;
+    border: 10px solid transparent;
+    background-color: white;
+}
+
+.qqpcfour .pcfourf {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+
+.qqpcfour .pcfours {
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 750px;
+    height: 195px;
+    width: 487px;
+}
+
+.qqpcfour .pcfourt {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 1100px;
+}
+
+.qqpcfour .pcfourfo {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 880px;
+}
+
+.qqpcfive {
+    position: absolute;
+    margin-top: 4480px;
+    width: 1496px;
+    height: 382px;
+    border: 10px solid transparent;
+    background-color: #2a2a2a;
+}
+
+.qqpcfive .qqpcfivephoto {
+    position: relative;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.qqpcfive .qqpcfivephoto .pcfivef {
+    background-image: url('img/bottom1.png');
+    height: 110px;
+    width: 94px;
+    background-size: cover;
+    position: absolute;
+
+}
+
+.qqpcfive .qqpcfivephoto .pcfivef:hover {
+    background-image: url('img/buttom1_1.png');
+}
+
+.qqpcfive .qqpcfivephoto .pcfives {
+    background-image: url('img/buttom2.png');
+    height: 100px;
+    width: 87px;
+    background-size: cover;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.qqpcfive .qqpcfivephoto .pcfives:hover {
+    background-image: url('img/buttom2_2.png');
+}
+
+.qqpcfive .qqpcfivephoto .pcfivet {
+    background-image: url('img/buttom3.png');
+    height: 109px;
+    width: 100px;
+    background-size: cover;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 0px;
+}
+
+.qqpcfive .qqpcfivephoto .pcfivet:hover {
+    background-image: url('img/buttom3_3.png');
+}
+
+.qqpcfive .qqpcfivephoto .pcfivefo {
+
+    background-image: url('img/buttom4.png');
+    height: 111px;
+    width: 95px;
+    background-size: cover;
+    position: absolute;
+    margin-left: 370px;
+
+}
+
+.qqpcfive .qqpcfivephoto .pcfivefo:hover {
+    background-image: url('img/buttom4_4.png');
+}
+
+.qqpcfive .buttomhuaxian {
+    position: relative;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.qqpcfive .buttomlingcunwei {
+    position: absolute;
+    margin-left: -1100px;
+    margin-top: -70px;
+}
+
+.qqpcfive .last {
+    position: absolute;
+    height: 200px;
+    width: 600px;
+    border: 5px solid transparent;
+    margin-left: 800px;
+    margin-top: -300px;
+
+}
+
+.qqpcfive .last ul li a {
+    font-size: 12px;
+    color: #D3D3D3;
+}
+
+.qqpcfive .last ul {
+    float: left;
+    margin-left: 20px;
+}
+
+.qqpcfive .qwertyu {
+    position: absolute;
+    margin-left: -500px;
+    margin-top: -90px;
+    width: 400px;
+}
+
+.qqpcfive .last .uls111 {
+    margin-left: 55px;
+}
+
+.qqpcfive .last .uls222 {
+    margin-left: 85px;
+}
+
+.qqpcfive .last .uls333 {
+    margin-left: 135px;
+}
+
+body {
+
+    background-repeat: no-repeat;
+    line-height: normal;
+    font-weight: normal;
+    background-attachment: fixed;
+    /* background="img/bg1_1600.jpg" */
+    /* background-image: url('img/bg1_1600.jpg'); */
+}
+
+.qqpc1{
+    position: fixed;
+    height: 84px;
+    width: 1500px;
+    border: 5px solid  transparent!important;
+    background-color: white;
+    z-index: 10;
+}
+.qqpc22{
+    height: 84px;
+    width: 1500px;
+    border: 5px solid  transparent!important;
+    z-index: 10;
+}
+
+
+
+#qqpclastthree{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 200px;
+    
+}
+#qqpclastthree li{
+    float: left;
+    margin-left: 20px;
+}
+.qwertyuiop{
+    display: none;
+}
+
+
+
+
+
+
+
+
